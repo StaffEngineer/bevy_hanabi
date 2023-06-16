@@ -35,6 +35,7 @@ typetag = "0.2"
 [dependencies.bevy]
 git = "https://github.com/bevyengine/bevy"
 default-features = false
+rev = "8ec8149"
 features = [ "bevy_core_pipeline", "bevy_render", "bevy_asset", "x11" ]
 
 [package.metadata.docs.rs]
